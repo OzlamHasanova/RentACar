@@ -1,0 +1,5 @@
+package coding.rentACar.dataAccess.abstracts;
+
+public interface BrandRepository {
+
+}

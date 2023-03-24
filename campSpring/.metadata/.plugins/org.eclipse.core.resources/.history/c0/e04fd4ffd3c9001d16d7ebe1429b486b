@@ -1,0 +1,5 @@
+package coding.rentACar.dataAccess.concretes;
+
+public class InMemoryBrandRepository {
+
+}
